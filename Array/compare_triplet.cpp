@@ -1,3 +1,8 @@
+Question Link- https://www.hackerrank.com/challenges/compare-the-triplets/problem
+
+//Brute Force Approach//
+
+
 
 /*
  * The 'compareTriplets' function below returns the scores obtained by Alice and Bob in the form of an 
@@ -7,6 +12,7 @@
  *  1. INTEGER_ARRAY a
  *  2. INTEGER_ARRAY b
  */
+
 
 
 
